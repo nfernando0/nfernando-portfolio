@@ -20,7 +20,8 @@ nav {
   font-size: 1.3rem;
 }
 
-.certification {
+.certification,
+.projects {
   padding: 5rem 0;
 }
 .card-footer {
