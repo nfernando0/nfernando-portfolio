@@ -21,7 +21,8 @@ nav {
 }
 
 .certification,
-.projects {
+.projects,
+.contact {
   padding: 5rem 0;
 }
 .card-footer {
